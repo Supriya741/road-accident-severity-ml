@@ -1,6 +1,6 @@
 -- =========================================================
 -- Road Accident Severity Prediction Database
--- Author: Geethanjali Nallateegala
+-- Author: Supriya Munjampally
 -- =========================================================
 
 CREATE DATABASE IF NOT EXISTS road_accident_prediction;
